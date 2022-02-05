@@ -4,7 +4,7 @@
 给照片打标签
 
 
-$$tes=a^2$$
+$ tes=a^2 $
 
 
 ## 程序二 seeClassv1.py
